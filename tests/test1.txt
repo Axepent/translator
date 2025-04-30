@@ -1,0 +1,12 @@
+PROGRAM MAIN;
+	CONST
+		X = -9;
+		Y = 2#6;
+		Z = -3#+3;
+		(*   comment
+
+		1234 *)
+		T = 39;
+	BEGIN
+	END. 
+	

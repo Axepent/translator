@@ -1,0 +1,15 @@
+.vscode/
+
+*.exe
+*.obj
+*.o
+*.out
+
+tokens.txt
+output.txt
+tree_output.txt
+
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db

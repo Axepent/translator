@@ -1,0 +1,7 @@
+PROGRAM PROG;
+	CONST
+		AN = 7;
+		(*banned symbols*) 
+	BEGIN
+	END. 
+	

@@ -1,0 +1,9 @@
+PROGRAM PROG;
+	CONST
+		TuS = 9#7;
+		TUS = -6;
+	BEGIN
+        (*hj****h*)
+        TUS;
+	END;
+	

@@ -1,0 +1,9 @@
+PROGRAM PROG;
+
+	CONST
+		9# 
+		t = 39;
+	BEGIN
+	
+	END. 
+	

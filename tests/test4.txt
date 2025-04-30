@@ -1,0 +1,9 @@
+PROGRAM PROG;
+	CONST
+		AN = 7;
+		(*banned symbols*) BV = 9;
+		(*
+		text
+		*)
+	BEGIN
+	END.  
